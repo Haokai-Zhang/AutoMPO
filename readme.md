@@ -1,8 +1,8 @@
-### AutoMPO
+## AutoMPO
 
 ”Generate matrix product operator automatically based on finite state automata. “
 
-#### Small Tutorial
+### Small Tutorial
 
 Use "fsa.Add()" to add each term in your Hamiltonian.
 
