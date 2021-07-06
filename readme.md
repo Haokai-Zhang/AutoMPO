@@ -36,3 +36,9 @@ if __name__ == "__main__":
     fsa.PrintSymbolMPO()
 ```
 
+Click [here](https://zhuanlan.zhihu.com/p/382361509) for the general idea behind AutoMPO.
+
+Click [here](https://zhuanlan.zhihu.com/p/385274056) for the implementation details of AutoMPO.
+
+Click [here](https://www.zhihu.com/question/270191605/answer/1585609137) for more information about the density matrix renormalization group (DMRG) method. 
+
